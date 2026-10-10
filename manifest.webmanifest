@@ -1,0 +1,32 @@
+{
+ "name": "UNAKI: tudo junto, aqui",
+ "short_name": "UNAKI",
+ "description": "Ciclo e gestação, saúde da criança, enxoval, compras, gastos e rotina de beleza.",
+ "lang": "pt-BR",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#232A55",
+ "theme_color": "#E36A4F",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
